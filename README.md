@@ -1,6 +1,6 @@
 # Golden Swirl — Traduzione Italiana (fan-made)
 <a href="https://www.buymeacoffee.com/Baum344" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-Traduzione **non ufficiale** in italiano di *Golden Swirl* (build Windows, Unity 2022.3.62f2, Addressables 1.22.3).
+Traduzione **non ufficiale** in italiano di *Golden Swirl
 
 > Questo pacchetto non contiene il gioco. Per usarlo devi possedere una copia di *Golden Swirl*.
 > Tutti i diritti su gioco, testi, asset e codice appartengono a **Snako Production Limited**.
