@@ -2,7 +2,9 @@
 traduzione italiana 
 ## ☕ Supporta il progetto
 
-Questa traduzione è e rimarrà gratuita.
+Questa traduzione è fanmade e rimarrà gratuita.
+
+leggere file README e seguire le istruzioni
 
 Se ti è stata utile e vuoi supportare il tempo dedicato alla traduzione,
 puoi offrirmi un caffè:
